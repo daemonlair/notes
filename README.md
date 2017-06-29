@@ -31,4 +31,4 @@ Notes about projects
 28. [sync-sgd](https://github.com/daemonlair/sync-sgd) ([n](sync-sgd.md))
 29. [tucci](https://github.com/daemonlair/tucci) ([n](tucci.md))
 30. [unreasonably-effective](https://github.com/daemonlair/unreasonably-effective) ([n](unreasonably-effective.md))
-
+31. [deep-bio](https://github.com/daemonlair/deep-bio)([n](deep-bio.md))
