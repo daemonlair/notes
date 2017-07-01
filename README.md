@@ -32,3 +32,4 @@ Notes about projects
 29. [tucci](https://github.com/daemonlair/tucci) ([n](tucci.md))
 30. [unreasonably-effective](https://github.com/daemonlair/unreasonably-effective) ([n](unreasonably-effective.md))
 31. [deep-bio](https://github.com/daemonlair/deep-bio) ([n](deep-bio.md))
+32. [lstm-odyssey](https://github.com/daemonlair/lstm-odyssey) ([n](lstm-odyssey))
