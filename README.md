@@ -36,5 +36,5 @@ Notes about projects
 33. [stackGAN](https://github.com/daemonlair/stackGAN) ([n](stackGAN.md))
 34. [skip-thoughts](https://github.com/daemonlair/skip-thoughts) ([n](skip-thoughts.md))
 35. [dbn](https://github.com/daemonlair/dbn)([n](dbn.md))
-36. [imagenet-evolution](https://github.com/imagenet-evolution)([n](imagenet-evolution.md))
-37. [speechrec-evolution](https://github.com/speechrec-evolution)([n](speechrec-evolution.md))
+36. [imagenet-evolution](https://github.com/daemonlair/imagenet-evolution)([n](imagenet-evolution.md))
+37. [speechrec-evolution](https://github.com/daemonlair/speechrec-evolution)([n](speechrec-evolution.md))
